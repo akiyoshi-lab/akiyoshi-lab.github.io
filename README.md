@@ -5,7 +5,7 @@
 
 ## 研究室Wiki
 知見の集約と共有を目的としたWikiです。 <br>
-[https://github.com/akiyoshi-lab/LabWiki](https://github.com/akiyoshi-lab/LabWiki)  <br>
+[https://github.com/akiyoshi-lab/LabWiki/wiki](https://github.com/akiyoshi-lab/LabWiki/wiki)  <br>
 
 ## Welcome to GitHub Pages
 
