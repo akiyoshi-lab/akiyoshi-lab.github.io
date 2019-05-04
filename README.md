@@ -1,12 +1,21 @@
 # 研究室情報集約サイト
 ここは、計算知能システム研究室の情報共有を目的としたWebサイトです。(現在非公式) <br>
 各員の積極的な編集を歓迎します。 <br>
-( へ՞ਊ ՞)へ ﾊｯﾊｯ <br>
+( へ՞ਊ ՞)へ ﾊｯﾊｯ レポジトリ -> https://github.com/akiyoshi-lab/akiyoshi-lab.github.io <br>
 
 ## 研究室Wiki
 知見の集約と共有を目的としたWikiです。 <br>
 [https://github.com/akiyoshi-lab/LabWiki/wiki](https://github.com/akiyoshi-lab/LabWiki/wiki)  <br>
 
+## 議事録
+マークダウン共同編集Webサービス HackMD https://hackmd.io/
+
+## タスクリスト 
+## 情報源
+メール
+ドライブ
+
+<hr>
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/akiyoshi-lab/akiyoshi-lab.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
