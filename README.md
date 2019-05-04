@@ -12,8 +12,8 @@
 
 ## タスクリスト 
 ## 情報源
-メール
-ドライブ
+メール https://outlook.office365.com/mail/inbox/ <br>
+ドライブ https://drive.google.com/drive/
 
 <hr>
 ## Welcome to GitHub Pages
