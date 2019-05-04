@@ -9,7 +9,7 @@
 [https://github.com/akiyoshi-lab/LabWiki/wiki](https://github.com/akiyoshi-lab/LabWiki/wiki)  <br>
 
 ## 議事録
-マークダウン共同編集Webサービス HackMD https://hackmd.io/　<br>
+マークダウン共同編集Webサービス HackMD [https://hackmd.io/](https://hackmd.io/)　<br>
 >使い方例 　
 >1. みんなでHackMDを用いて共同編集　
 >2. HTMLとしてDL　
