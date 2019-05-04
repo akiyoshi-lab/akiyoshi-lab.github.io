@@ -1,7 +1,7 @@
 # 研究室情報集約サイト
 ここは、計算知能システム研究室の情報共有を目的としたWebサイトです。(現在非公式) <br>
 各員の積極的な編集を歓迎します。 <br>
-( へ՞ਊ ՞)へ ﾊｯﾊｯ レポジトリ -> https://github.com/akiyoshi-lab/akiyoshi-lab.github.io <br>
+( へ՞ਊ ՞)へ ﾊｯﾊｯ レポジトリ -> [https://github.com/akiyoshi-lab/akiyoshi-lab.github.io](https://github.com/akiyoshi-lab/akiyoshi-lab.github.io) <br>
 現在のところリンクだらけなので、APIなどでリンク先の表示、編集できるといいなと思ってます。
 
 ## 研究室Wiki
