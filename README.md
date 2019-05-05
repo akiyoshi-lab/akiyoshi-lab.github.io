@@ -13,7 +13,8 @@
 >使い方例 　
 >1. みんなでHackMDを用いて共同編集　
 >2. HTMLとしてDL　
->3. Githubにアップロード　
+>3. Githubにアップロード　<br>
+>テンプレート　[https://hackmd.io/2mPDGTY7SeyEYKV7P6RlYA](https://hackmd.io/2mPDGTY7SeyEYKV7P6RlYA)
 
 - [Test 11/16](https://akiyoshi-lab.github.io/Minutes/test.html)
 
