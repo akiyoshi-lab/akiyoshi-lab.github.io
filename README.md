@@ -26,7 +26,7 @@ Trello [https://trello.com/b/APieRL2d/タスクリスト](https://trello.com/b/A
 メール [https://outlook.office365.com/mail/inbox/](https://outlook.office365.com/mail/inbox/) <br>
 ドライブ [https://drive.google.com/drive/](https://drive.google.com/drive/)
 
-<hr>
+<br><br><hr>
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/akiyoshi-lab/akiyoshi-lab.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
